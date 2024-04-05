@@ -2,4 +2,4 @@
  Digital_Business_Card
 
 ### Screenshot
- ![screenshot](/Screenshot/Digital-Business-card.png)
+ ![screenshot](/Screenshot/Digital-Business-Card.png)
